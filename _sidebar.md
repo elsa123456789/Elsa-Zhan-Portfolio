@@ -1,8 +1,0 @@
-* [🏠 Home](README.md)
-* [📄 Resume](resume-v10-BusinessAnalyst.html)
-* [⚙️ ERP Project](erp-project.html)
-* [📊 AI & Data Strategy]()
-  * [Airbnb Superhost Analysis](Airbnb%20Project%20Report.pdf)
-  * [Credit Suisse Sentiment Labeling](03%20Credit%20Suisse%20Crisis%20Sentiment%20Labeling.html)
-  * [Coupon Acceptance Prediction]([Project%20Report]%20Cupon%20Prediction%20Report.pdf)
-  * [HKUST YouTube Analytics]([PowerBI%20Dashboard]%20HK%20University%20Channel%20in%20YouTube.pdf)
