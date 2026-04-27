@@ -70,6 +70,6 @@ All reports, code outputs, and images are included and can be downloaded directl
 - LinkedIn: [linkedin.com/in/elsazhan](https://www.linkedin.com/in/elsazhan)  
 - Portfolio link: 
     - Google [lnk.ink/elsazhan-portfolio](https://lnk.ink/elsazhan-portfolio)  
-    - Github https://github.com/elsa123456789/Elsa-Zhan-Portfolio
+    - Github [github.com/elsa123456789/Elsa-Zhan-Portfolio](https://github.com/elsa123456789/Elsa-Zhan-Portfolio)
 
 *Open to Business Analyst / Product Analyst roles in Hong Kong – full‑time, IANG visa ready.*

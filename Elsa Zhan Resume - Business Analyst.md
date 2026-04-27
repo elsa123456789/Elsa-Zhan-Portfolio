@@ -1,6 +1,6 @@
 # Shuqing Zhan
 
-📞 +852 5538 1747 | ✉️ [zhanshuqing0328@gmail.com](mailto:zhanshuqing0328@gmail.com) | [linkedin.com/in/elsazhan](https://www.linkedin.com/in/elsazhan) | 📁 [lnk.ink/elsazhan-portfolio](https://lnk.ink/elsazhan-portfolio)  
+📞 +852 5538 1747 | ✉️ [zhanshuqing0328@gmail.com](mailto:zhanshuqing0328@gmail.com) | [linkedin.com/in/elsazhan](https://www.linkedin.com/in/elsazhan) | 📁 [portfolio shared by google drive](https://lnk.ink/elsazhan-portfolio)  
 📍 Hong Kong | IANG Visa  
 
 ## PROFESSIONAL SUMMARY
