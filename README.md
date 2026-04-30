@@ -44,12 +44,20 @@
 ## 📁 Repository Structure
 ```text
 MyPortfolio/
-├── MyBusinessAnalyticsProject/ # 4 data projects (PDF reports + code HTML)
-├── images/ # ERP screenshots, flowcharts, UAT logs
-├── Intro Of Data Projects.md # Detailed data project descriptions
-├── Intro For My ERP Expirement.md # Detailed ERP system design & testing
-├── Elsa Zhan Resume - Business Analyst.md # Resume (Markdown)
-└── README.md # You are visting this file now.
+├── images/  
+│   ├── ERP screenshots  
+│   ├── Module flowcharts  
+│   └── UAT management screenshots
+│
+├── MyBusinessAnalyticsProject/  
+│   ├── Airbnb Actionable Factor Modeling – Turning Hosts to Superhosts  
+│   ├── Credit Suisse Crisis Sentiment Analysis of International News 2023  
+│   ├── Predictive Modeling for Coupon Acceptance – Business Application of DNN  
+│   └── YouTube Channel – Channel Visualization Analysis and Suggestions of HKUST  
+│
+├── Intro For My ERP Experiment.md      # Detailed ERP system design & testing documentation  
+├── Intro Of Data Projects.md           # Detailed descriptions of all data projects  
+└── README.md                           # Overview of the portfolio (you are here)
 ```
 
 ---
